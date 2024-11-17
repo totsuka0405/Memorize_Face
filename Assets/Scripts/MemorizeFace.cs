@@ -16,7 +16,6 @@ namespace MemorizeFace
         private UIManager uiManager;
         private SoundManager soundManager;
         private GameLogicManager gameLogicManager;
-        private ScoreCalculator scoreCalculator;
 
         private float gameDuration; // ゲームの合計時間
         public float timeLeft;     // 残り時間
